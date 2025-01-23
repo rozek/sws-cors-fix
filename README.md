@@ -17,7 +17,8 @@ And that's exactly what the files in this repository do: they provide **a plugin
 Follow these steps:
 
 1. download this repository, in particular the files `plugin.json` and `plugin.js`. Keep these files in a common folder
-2. open the "Simple Web Server" UI, select a server and add a new plugin. When asked, pen the folder with the abovementioned files
+2. open the settings screen in "Simple Web Server" UI and add a new plugin. When asked, pen the folder with the abovementioned files
+3. then go back, select a server, scroll down and select the plugin in order to activate it
 
 That's it!
 
