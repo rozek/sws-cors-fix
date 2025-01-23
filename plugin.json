@@ -1,0 +1,5 @@
+{
+  "name":  "CORS-Fix",
+  "id":    "fix-cors",
+  "script":"plugin.js"
+}
